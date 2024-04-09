@@ -1,0 +1,23 @@
+{
+  "javascript.preferences.importModuleSpecifier": "relative",
+  "javascript.preferences.importModuleSpecifierEnding": "js",
+  "workbench.colorCustomizations": {
+    "commandCenter.border": "#15202b99",
+    "editorGroup.border": "#62d26f",
+    "sash.hoverBorder": "#62d26f",
+    "sideBar.border": "#62d26f",
+    "statusBar.background": "#62d26f",
+    "statusBar.debuggingBackground": "#d262c5",
+    "statusBar.debuggingForeground": "#15202b",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#3ac74b",
+    "statusBarItem.remoteBackground": "#62d26f",
+    "statusBarItem.remoteForeground": "#15202b",
+    "tab.activeBorder": "#62d26f",
+    "titleBar.activeBackground": "#62d26f",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#62d26f99",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#62d26f"
+}
